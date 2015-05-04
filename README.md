@@ -6,8 +6,14 @@ Ember-cli-blanket
 ## Installation
 
 Install the addon:
+
+ember-cli < 0.2.3
 ```sh
 ember install:addon ember-cli-blanket
+```
+ember-cli >= 0.2.3
+```sh
+ember install ember-cli-blanket
 ```
 
 ## Reporters
